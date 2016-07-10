@@ -1,0 +1,35 @@
+{
+  "name": "jelly",
+  "version": "0.0.1",
+  "description": "A node module to practice",
+  "main": "mos.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shras1993/20160709_BOBOHW.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "shras1993",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shras1993/20160709_BOBOHW/issues"
+  },
+  "homepage": "https://github.com/shras1993/20160709_BOBOHW#readme",
+  "dependencies": {
+    "sequelize": "^3.23.4",
+    "sqlite3": "^3.1.4",
+    "eslint": "^2.0.0",
+    "webpack": "^1.13.1",
+    "babel-cli": "^6.7.7",
+    "babel-core": "^6.6.5",
+    "babel-eslint": "^5.0.0-beta4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-0": "^6.5.0"
+  }
+}
